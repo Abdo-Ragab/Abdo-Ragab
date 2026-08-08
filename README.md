@@ -11,6 +11,7 @@ interested in Software Engineering, AI, and Systems Development.
 - **Intern — University of Glasgow**
   - Worked on optimizing xMem, a CPU-based GPU memory estimation tool.
   - Investigated runtime bottlenecks, profiling, trace processing, and performance optimization.
+  - [View my xMem optimizations](https://github.com/Abdo-Ragab/xMem/tree/fix/all_optimizations)
 
 - **Junior Teaching Assistant — GUC**
   - Teaching Assistant for Data Structures & Algorithms.
