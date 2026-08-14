@@ -1,4 +1,4 @@
-# Hi, I'm Abdelrahman 👋
+# Hello, I'm Abdelrahman 👋
 
 I'm a Computer Engineering student at the German University in Cairo (GUC),
 interested in Software Engineering, AI, and Systems Development.
